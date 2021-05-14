@@ -13,10 +13,12 @@ form{
     color: white;
 }
 input{
+    outline: none;
     border-radius: 100px;
     border-width: 50%;
 }
 textarea{
+  outline: none;
   width: 60%;
   padding: 12px;
   border: 1px solid #ccc;
